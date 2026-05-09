@@ -1,0 +1,24 @@
+{
+  "metadataVersion": 1,
+  "name": "mdt-skill-command-customizer",
+  "displayName": "MDT Skill Command Customizer",
+  "displayNameZh": "MDT 技能命令自定义",
+  "author": "monthzifang",
+  "description": "Adds config-driven skill commands with permission groups, multi-currency costs, and block effects.",
+  "descriptionZh": "通过配置文件新增技能指令，支持权限组、多重货币消耗，以及在玩家脚下生成随机方块等效果。",
+  "version": "v1",
+  "requiredMarketVersion": "v1",
+  "channel": "native",
+  "targets": [
+    "original"
+  ],
+  "downloadUrls": [
+    "https://raw.githubusercontent.com/MonthZifang/mdt-skill-command-customizer/main/dist/mdt-skill-command-customizer.jar",
+    "https://raw.githubusercontent.com/MonthZifang/mdt-skill-command-customizer/main/plugin.json"
+  ],
+  "dependencies": [
+    "mdt-player-economy-system"
+  ],
+  "repositoryUrl": "https://github.com/MonthZifang/mdt-skill-command-customizer",
+  "entry": "com.mdt.skill.SkillCommandCustomizerPlugin"
+}
