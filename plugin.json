@@ -3,5 +3,5 @@
   "author": "monthzifang",
   "main": "com.mdt.skill.SkillCommandCustomizerPlugin",
   "description": "通过配置文件定义技能命令、权限组、货币消耗和方块效果。",
-  "version": "V1.0.0 - 157X"
+  "version": "V1.2.0 - 157X - 2026x5-9"
 }
